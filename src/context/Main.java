@@ -9,11 +9,10 @@ public class Main {
         int pe = 2;
         
         //Formula
-        int puntaje=(pg * 3) + (pp * 0) + (pe * 1);
+        int puntaje = (pg * 3) + (pp * 0) + (pe * 1);
         
         //Resultado
-        System.out.print("Puntaje: "+puntaje);
-
+        System.out.print("Puntaje: " + puntaje);
 	}
 
 }
